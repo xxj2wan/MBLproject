@@ -1,0 +1,108 @@
+html{
+		font-family:"Times New Roman", Times, serif;
+}
+#Result p{
+		font-weight:bold;
+		font-size:20;
+}
+#Result #grid ul{
+color:white;
+margin:0px;
+	   padding-left:0px;
+}
+#Result #grid ul li{
+		text-align:center;
+		font-size:20;
+padding:20px 0px 20px 0px;
+}
+#Result #grid ul li:hover{
+		background-color:#ffe6cc;
+}
+#Result #grid ul li a{
+color:black;
+	  text-decoration:none;
+}
+
+.marine_table table{
+border: 1px solid black;
+		border-collapse: collapse;
+width: 80%;
+}
+
+#intro_text{
+float:left;
+width:60%;
+height:80px;
+}
+#intro_text span{
+		font-weight:bold;
+		font-size:30px;
+}
+#intro_text p{
+		text-align:left;
+		margin-top:5px;
+}
+
+#intro_img{
+float:left;
+width:30%;
+margin-left:10px;
+margin-top:0px;
+}
+#intro_img img{
+float:right;
+width:200px;
+	  margin-top:0px;
+	  margin-left:10px;
+}
+#wqtable{
+width:60%;
+margin:auto;
+}
+#wqtable #summary #tableheader{
+		text-align:right;
+}
+#wq_setting{
+float:left;
+}
+
+#PY{
+float:left;
+}
+#PS{
+float:left;
+}
+#Go{
+float:left;
+}
+#THeadername th{
+		font-size:18px;
+		padding-left:10px;
+		padding-right:10px;
+}
+.BoxSection{
+width:100%;
+margin:auto auto auto 30px;
+
+}
+ul{
+		list-style:none;
+margin:0px auto;
+}
+#BoxUl {
+color:white;
+}
+.resultBox{
+		font-size:20px;
+float:left;
+color:black;
+width:22%;
+height:50px;
+margin:0px auto auto auto;
+border:1px solid white;
+	   background-color:#FFB6C1;
+}
+.resultBox:hover{
+color:#FFE6C1;
+}
+
